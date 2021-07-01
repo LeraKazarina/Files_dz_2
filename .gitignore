@@ -1,4 +1,4 @@
 out/
 .idea/
-*.zip
+zip_output.zip
 *.iml
